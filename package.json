@@ -1,0 +1,12 @@
+{
+  "name": "launch-base",
+  "version": "1.0.0",
+  "description": "js, html, css, course, rocket-seat",
+  "main": "index.js",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Salvo <gabrielamdesalvo@gmail.com> (https://github.com/gabrielasalvo)",
+  "license": "MIT"
+}
